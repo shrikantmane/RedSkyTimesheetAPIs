@@ -1,0 +1,235 @@
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.LINKUP.dll.config
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.LINKUP.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.LINKUP.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.ViewModel.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Core.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Cors.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Security.Cookies.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Security.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Security.OAuth.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Web.Infrastructure.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Swashbuckle.Core.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Net.Http.Formatting.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Cors.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Http.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Http.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Http.WebHost.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\WebActivatorEx.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.DAL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.ViewModel.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Core.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Cors.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Security.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Security.Cookies.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Microsoft.Owin.Security.OAuth.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Http.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Net.Http.Formatting.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Http.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\System.Web.Http.WebHost.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\bin\ESPL.Linkup.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\obj\Debug\ESPL.RedSkyTimeSheet.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\obj\Debug\ESPL.LINKUP.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.LINKUP\obj\Debug\ESPL.LINKUP.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.LINKUP.dll.config
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.LINKUP.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.LINKUP.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.ViewModel.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Core.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Cors.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.Cookies.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.OAuth.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Web.Infrastructure.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Swashbuckle.Core.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Net.Http.Formatting.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Cors.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.WebHost.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\WebActivatorEx.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.DAL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.ViewModel.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Core.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Cors.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.Cookies.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.OAuth.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Net.Http.Formatting.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.WebHost.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\obj\Debug\ESPL.RedSkyTimeSheet.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\obj\Debug\ESPL.LINKUP.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\obj\Debug\ESPL.LINKUP.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.LINKUP.dll.config
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.LINKUP.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.LINKUP.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.BL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.ViewModel.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Cors.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Web.Infrastructure.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Newtonsoft.Json.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Swashbuckle.Core.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Net.Http.Formatting.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Cors.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.WebHost.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\WebActivatorEx.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.DAL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.BL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.ViewModel.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Cors.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\Newtonsoft.Json.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.Owin.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Net.Http.Formatting.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\System.Web.Http.WebHost.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\bin\ESPL.Linkup.DAL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\obj\Debug\ESPL.RedSkyTimeSheet.csprojResolveAssemblyReference.cache
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\obj\Debug\ESPL.LINKUP.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.LINKUP\obj\Debug\ESPL.LINKUP.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Cors.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Web.Infrastructure.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Newtonsoft.Json.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Swashbuckle.Core.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Net.Http.Formatting.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Cors.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.Owin.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.WebHost.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\WebActivatorEx.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Cors.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Newtonsoft.Json.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.Owin.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Net.Http.Formatting.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.WebHost.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\obj\Debug\ESPL.RedSkyTimeSheet.csprojResolveAssemblyReference.cache
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.dll.config
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\obj\Debug\ESPL.RedSky.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\obj\Debug\ESPL.RedSky.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.ViewModel.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.ViewModel.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.BL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.DAL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.BL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.dll.config
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.ViewModel.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Core.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Cors.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.Cookies.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.OAuth.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Web.Infrastructure.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Swashbuckle.Core.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Net.Http.Formatting.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Cors.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.Owin.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.WebHost.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\WebActivatorEx.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.DAL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.ViewModel.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Core.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Cors.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.Cookies.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Microsoft.Owin.Security.OAuth.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.Owin.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Net.Http.Formatting.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\System.Web.Http.WebHost.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\bin\ESPL.RedSky.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\obj\Debug\ESPL.RedSkyTimeSheet.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\obj\Debug\ESPL.RedSky.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky\obj\Debug\ESPL.RedSky.pdb

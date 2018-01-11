@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL.SHAREPOINT.RESTSERVICE", "ESPL.SHAREPOINT.RESTSERVICE\ESPL.SHAREPOINT.RESTSERVICE.csproj", "{79C03560-8DD5-4047-A19E-444261B16AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL.RedSkyTimeSheet", "ESPL.RedSky\ESPL.RedSkyTimeSheet.csproj", "{D806C0AD-3F3D-465F-B91A-28532DD1217A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL.RedSkyTimeSheet.ViewModel", "ESPL.RedSky.ViewModel\ESPL.RedSkyTimeSheet.ViewModel.csproj", "{CD9563FB-EB01-45D3-AD68-C707B24BEACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL.RedSkyTimeSheet.Lists", "ESPL.Redsky.Lists\ESPL.RedSkyTimeSheet.Lists.csproj", "{A6D762FC-A172-4888-862B-82DE669E810D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL.RedSkyTimeSheet.DAL", "ESPL.RedSky.DAL\ESPL.RedSkyTimeSheet.DAL.csproj", "{14F76851-1D5C-407A-964C-87FFF5C382A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL.RedSkyTimeSheet.BL", "ESPL.RedSky.BL\ESPL.RedSkyTimeSheet.BL.csproj", "{DA652FD8-1171-4D35-9F3E-EBC865E69D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C03560-8DD5-4047-A19E-444261B16AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C03560-8DD5-4047-A19E-444261B16AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C03560-8DD5-4047-A19E-444261B16AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C03560-8DD5-4047-A19E-444261B16AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D806C0AD-3F3D-465F-B91A-28532DD1217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D806C0AD-3F3D-465F-B91A-28532DD1217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D806C0AD-3F3D-465F-B91A-28532DD1217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D806C0AD-3F3D-465F-B91A-28532DD1217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9563FB-EB01-45D3-AD68-C707B24BEACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9563FB-EB01-45D3-AD68-C707B24BEACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9563FB-EB01-45D3-AD68-C707B24BEACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9563FB-EB01-45D3-AD68-C707B24BEACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D762FC-A172-4888-862B-82DE669E810D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D762FC-A172-4888-862B-82DE669E810D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D762FC-A172-4888-862B-82DE669E810D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D762FC-A172-4888-862B-82DE669E810D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F76851-1D5C-407A-964C-87FFF5C382A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F76851-1D5C-407A-964C-87FFF5C382A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F76851-1D5C-407A-964C-87FFF5C382A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F76851-1D5C-407A-964C-87FFF5C382A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA652FD8-1171-4D35-9F3E-EBC865E69D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA652FD8-1171-4D35-9F3E-EBC865E69D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA652FD8-1171-4D35-9F3E-EBC865E69D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA652FD8-1171-4D35-9F3E-EBC865E69D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

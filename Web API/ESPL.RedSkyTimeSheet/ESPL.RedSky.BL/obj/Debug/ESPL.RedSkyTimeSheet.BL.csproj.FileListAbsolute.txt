@@ -1,0 +1,127 @@
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.DAL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.ViewModel.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\System.Web.Http.Common.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.ViewModel.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\bin\Debug\System.Web.Http.Common.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\obj\Debug\ESPL.RedSkyTimeSheet.BL.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\obj\Debug\ESPL.Linkup.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.BL\obj\Debug\ESPL.Linkup.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.DAL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.ViewModel.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\System.Web.Http.Common.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.ViewModel.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\System.Web.Http.Common.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\obj\Debug\ESPL.RedSkyTimeSheet.BL.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\obj\Debug\ESPL.Linkup.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\obj\Debug\ESPL.Linkup.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Newtonsoft.Json.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.BL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.BL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.DAL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Newtonsoft.Json.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\System.Web.Http.Common.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.DAL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.Linkup.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\System.Web.Http.Common.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\obj\Debug\ESPL.RedSkyTimeSheet.BL.csprojResolveAssemblyReference.cache
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\obj\Debug\ESPL.Linkup.BL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\obj\Debug\ESPL.Linkup.BL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.RedSky.ViewModel.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.BL\bin\Debug\ESPL.RedSky.ViewModel.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.BL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.BL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.DAL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.ViewModel.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Newtonsoft.Json.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\System.Web.Http.Common.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.DAL.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.ViewModel.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\System.Web.Http.Common.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\obj\Debug\ESPL.RedSkyTimeSheet.BL.csprojResolveAssemblyReference.cache
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\obj\Debug\ESPL.RedSky.BL.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\obj\Debug\ESPL.RedSky.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.BL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.DAL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.ViewModel.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\System.Web.Http.Common.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.DAL.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.RedSky.ViewModel.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\bin\Debug\System.Web.Http.Common.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\obj\Debug\ESPL.RedSkyTimeSheet.BL.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\obj\Debug\ESPL.RedSky.BL.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.RedSky.BL\obj\Debug\ESPL.RedSky.BL.pdb

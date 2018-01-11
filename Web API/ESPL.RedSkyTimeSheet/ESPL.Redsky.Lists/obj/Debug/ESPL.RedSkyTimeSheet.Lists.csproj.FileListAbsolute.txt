@@ -1,0 +1,50 @@
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\ESPL.ERRORLOGGER.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\bin\Debug\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\obj\Debug\ESPL.RedSkyTimeSheet.Lists.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\obj\Debug\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.LINKUP\ESPL.Linkup.Lists\obj\Debug\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.Linkup.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.ERRORLOGGER.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\obj\Debug\ESPL.RedSkyTimeSheet.Lists.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\obj\Debug\ESPL.Linkup.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\obj\Debug\ESPL.Linkup.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.Linkup.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.Linkup.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\Newtonsoft.Json.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.ERRORLOGGER.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\bin\Debug\Newtonsoft.Json.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\obj\Debug\ESPL.RedSkyTimeSheet.Lists.csprojResolveAssemblyReference.cache
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\obj\Debug\ESPL.Linkup.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Linkup.Lists\obj\Debug\ESPL.Linkup.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\Newtonsoft.Json.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.ERRORLOGGER.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\Newtonsoft.Json.xml
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\obj\Debug\ESPL.RedSkyTimeSheet.Lists.csprojResolveAssemblyReference.cache
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.RedSky.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.RedSky.Lists.pdb
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\obj\Debug\ESPL.RedSky.Lists.dll
+G:\Web API_10_Jan_18\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\obj\Debug\ESPL.RedSky.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.RedSky.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.RedSky.Lists.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\Newtonsoft.Json.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.ERRORLOGGER.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\ESPL.SHAREPOINT.RESTSERVICE.pdb
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\bin\Debug\Newtonsoft.Json.xml
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\obj\Debug\ESPL.RedSkyTimeSheet.Lists.csprojResolveAssemblyReference.cache
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\obj\Debug\ESPL.RedSky.Lists.dll
+G:\SFDC\SFDC Projects\Red Sky Time Entry\Repository\Web API\ESPL.RedSkyTimeSheet\ESPL.Redsky.Lists\obj\Debug\ESPL.RedSky.Lists.pdb
